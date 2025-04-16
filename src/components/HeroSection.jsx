@@ -28,7 +28,7 @@ export default function HeroSection() {
       {/* Background Visual or Illustration (Optional) */}
       <div className="absolute top-0 left-0 w-full h-full opacity-15 pointer-events-none select-none">
         <img 
-          src="/src/assets/hero-bg-1.jpeg" 
+          src="/images/hero-bg-1.jpeg" 
           alt="Decorative AI Graphic" 
           className="w-full h-full object-cover"
         />

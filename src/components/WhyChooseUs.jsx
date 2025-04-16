@@ -12,7 +12,7 @@ export default function WhyChooseUs() {
         </ul>
       </div>
       <div className="md:w-1/2 flex justify-center">
-        <img src="./src/assets/why-us.jpeg" alt="Why Choose Us" className="rounded-2xl shadow-xl w-4/5" />
+        <img src="./images/why-us.jpeg" alt="Why Choose Us" className="rounded-2xl shadow-xl w-4/5" />
       </div>
     </section>
   );
